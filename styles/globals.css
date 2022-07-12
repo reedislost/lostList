@@ -1,0 +1,9 @@
+@font-face {
+  font-family: VT323;
+  src: url(../fonts/VT323/VT323-Regular.ttf);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: VT323;
+}
